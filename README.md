@@ -1,6 +1,10 @@
 # 🌸 Flower Classification with Transfer Learning  
 **Fine-Tuning ResNet50 and MobileNetV3 on TF Flowers Dataset**
-- ***For More info , consider reading the transfer_learning_tf_flowers_report.pdf documentation*** 
+
+
+**For more info, consider reading the [transfer_learning_tf_flowers_report.pdf](transfer_learning_tf_flowers_report.pdf) documentation.**
+
+
 ---
 
 ## 📍 Project Overview  
